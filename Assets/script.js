@@ -41,7 +41,7 @@ var generateBtn = document.querySelector("#generate");
         }
         // password = toString(passwd);
         console.log(typeof passwd);
-        window.alert("Your password is: " + passwd);
+        // window.alert("Your password is: " + passwd);
         return passwd;
     }
     else{
